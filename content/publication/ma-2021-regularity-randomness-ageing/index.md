@@ -30,12 +30,12 @@ abstract: The loss of complexity in ageing hypothesis (LOCH) has found support f
   The new findings support the LOCH by demonstrating the simultaneous increase in
   regularity and randomness.
 tags:
-- 2023_Complexity-Across-Adult-Lifespan
 - Ageing
-- complexity
+- entropy
 - EEG
-- Largest lyapunov exponent
-- neural-complexity
-- Resting state
+- Lempel-Ziv complexity
+- Largest Lyapunov exponent
+- neural complexity
 - resting-state
+featured: true
 ---

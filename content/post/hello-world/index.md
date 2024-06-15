@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: '2024-6-15'
+date: 2024-6-15
 summary: My first blog post to test out Hugo
 ---
 

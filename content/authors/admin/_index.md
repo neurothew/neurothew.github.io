@@ -25,17 +25,18 @@ organizations:
     url: https://www.polyu.edu.hk/cbs/rclcn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently working as a postdoctoral fellow in the research center of language, cognition and neuroscience in the Hong Kong Polytechnic University. I am interested in studying the healthy/pathological ageing brains, especially from the resting-state perspective. I believe that the functional architecture of each individual is hidden in the resting-state activities. Apart from resting-state, I am also investigating the possibility in detecting changes in cognitive abilities in older adults using passive speech perception tasks. 
+bio: I am now working with Prof. William Shiyuan Wang as a Postdoctoral Fellow in the Department of Chinese and Bilingual Studies in Hong Kong Polytechnic University. I am interested in investigating the cognitive neuroscience of ageing and speech perception with electroencephalography (EEG). During my doctoral study, I focused on the age-related changes in the resting-state brain signals recorded with EEG. I have also initiated a rehabilitation project for cancer patients who had their vocal cords removed, leading to the development of a mobile app that synthesizes their pre-surgery voice. Recently, I am using EEG to study brain activity in older adults as they listen to speech or music, aiming to deepen the understanding of how aging and subjective cognitive decline affect cognitive functions.
 
 
 # Interests to show in About widget
 interests:
   - ageing
-  - cognitive decline
+  - cognitive-decline
   - resting-state 
-  - EEG and fMRI
+  - EEG
+  - fMRI
   - neurolinguistics
-  - speech perception
+  - speech-perception
 
 # Education to show in About widget
 education:
@@ -122,5 +123,5 @@ highlight_name: true
 ---
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-I am currently working as a postdoctoral fellow in the research center of language, cognition and neuroscience in the Hong Kong Polytechnic University. I am interested in studying the healthy/pathological ageing brains, especially from the resting-state perspective. I believe that the functional architecture of each individual is hidden in the resting-state activities. Apart from resting-state, I am also investigating the possibility in detecting changes in cognitive abilities in older adults using passive speech perception tasks. 
+I am now working with Prof. William Shiyuan Wang as a Postdoctoral Fellow in the Department of Chinese and Bilingual Studies in Hong Kong Polytechnic University. I am interested in investigating the cognitive neuroscience of ageing and speech perception with electroencephalography (EEG). During my doctoral study, I focused on the age-related changes in the resting-state brain signals recorded with EEG. I have also initiated a rehabilitation project for cancer patients who had their vocal cords removed, leading to the development of a mobile app that synthesizes their pre-surgery voice. Recently, I am using EEG to study brain activity in older adults as they listen to speech or music, aiming to deepen the understanding of how aging and subjective cognitive decline affect cognitive functions.
 {style="text-align: justify;"}

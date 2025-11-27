@@ -1,0 +1,10 @@
+title: Matthew King-Hang Ma
+email: khmma@polyu.edu.hk
+description: >- # this means to ignore newlines until "baseurl:"
+  RGC Postdoctoral Fellow
+  Research Centre for Language, Cognition and Neuroscience
+  Department of Language Science and Technology
+  The Hong Kong Polytechnic University
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: neurothew

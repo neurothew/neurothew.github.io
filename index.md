@@ -1,11 +1,14 @@
-layout: default title: Home
+---
+layout: default
+title: Home
+---
 
 <div class="profile-grid">
 
 <!-- Left Column: Description -->
 
 <div class="profile-content">
-<h1>Jane Doe, PhD</h1>
+# Matthew King-Hang Ma
 <p class="lead">Assistant Professor of Computer Science at State University.</p>
 
 <p>

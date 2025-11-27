@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <!-- Google Fonts: Playfair Display (Elegant Serif) and Lato (Clean Sans-Serif) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      /* Color Palette: Deep Blue & Slate Gray */
+      --primary-color: #2c3e50; 
+      --accent-color: #2980b9;
+      --text-color: #333;
+      --bg-color: #fdfdfd;
+      --border-color: #eee;
+    }
+
+    /* Reset & Base Styles */
+    body {
+      font-family: 'Lato', sans-serif;
+      color: var(--text-color);
+      background-color: var(--bg-color);
+      line-height: 1.8;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px; /* Slightly wider to accommodate columns */
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    /* Header Styling */
+    header {
+      padding: 3rem 0;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap; 
+    }
+
+    .site-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      text-decoration: none;
+      letter-spacing: -0.5px;
+    }
+
+    nav {
+      display: flex;
+      gap: 25px;
+    }
+
+    nav a {
+      color: #666;
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: color 0.2s ease;
+    }
+
+    nav a:hover {
+      color: var(--accent-color);
+    }
+
+    /* Main Content */
+    main {
+      padding: 3rem 0;
+    }
+
+    h1, h2, h3 {
+      font-family: 'Playfair Display', serif;
+      color: var(--primary-color);
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    h1 { font-size: 2.5rem; line-height: 1.2; margin-top: 0; }
+    h2 { font-size: 1.8rem; border-bottom: 2px solid #f4f4f4; padding-bottom: 10px; }
+    h3 { font-size: 1.3rem; }
+
+    a { color: var(--accent-color); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* --- NEW: Two-Column Profile Grid --- */
+    .profile-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr; /* Text gets 2 parts, Image gets 1 part */
+      gap: 4rem;
+      align-items: start;
+      margin-bottom: 3rem;
+    }
+
+    .profile-grid .profile-content {
+      /* Left side (text) inherits standard styles */
+    }
+
+    .profile-grid .profile-photo-container {
+      /* Right side (image) */
+      text-align: center;
+    }
+
+    .profile-photo {
+      width: 100%;
+      max-width: 250px; /* Limit size */
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 5px solid white;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15); /* Elegant shadow */
+    }
+
+    /* List Styles */
+    ul { padding-left: 1.2rem; }
+    li { margin-bottom: 0.5rem; }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 3rem 0;
+      margin-top: 2rem;
+      border-top: 1px solid var(--border-color);
+      font-size: 0.8rem;
+      color: #999;
+    }
+
+    /* Mobile Responsiveness */
+    @media (max-width: 768px) {
+      .profile-grid {
+        grid-template-columns: 1fr; /* Stack vertically */
+        gap: 2rem;
+      }
+      .profile-grid .profile-photo-container {
+        order: -1; /* Move image to top on mobile */
+        margin-bottom: 1rem;
+      }
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+      }
+      nav {
+        width: 100%;
+        justify-content: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav>
+        <a href="{{ "/" | relative_url }}">About</a>
+        <a href="{{ "/publications" | relative_url }}">Publications</a>
+        <a href="{{ "/teaching" | relative_url }}">Teaching</a>
+        <a href="#">CV</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    </footer>
+  </div>
+
+</body>
+</html>

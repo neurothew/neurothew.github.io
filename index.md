@@ -8,7 +8,7 @@ title: Home
 <!-- Left Column: Description -->
 
 <div class="profile-content">
-# Matthew King-Hang Ma
+<h1>Matthew King-Hang Ma</h1>
 <p class="lead">Assistant Professor of Computer Science at State University.</p>
 
 <p>
@@ -34,8 +34,8 @@ title: Home
 <!-- Right Column: Photo -->
 
 <div class="profile-photo-container">
-<!-- Replace src with your actual photo URL or upload an image to your repo -->
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png" alt="Profile Photo" class="profile-photo">
+<!-- Jekyll will look in the assets/images folder for your file -->
+<img src="{{ "/assets/images/avatar.jpg" | relative_url }}" alt="Profile Photo" class="profile-photo">
 </div>
 
 </div>

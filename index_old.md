@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 <div class="profile-grid">
 
@@ -41,11 +37,3 @@ My research primarily focuses on the cognitive neuroscience of aging and speech 
 <!-- Full width section below the grid -->
 
 <hr>
-
-Recent News
-
-Nov 2023: We presented our work in EMNLP2025.
-
-Contact
-
-Email: {{ site.email }}

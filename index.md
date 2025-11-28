@@ -8,7 +8,7 @@ title: Home
 <!-- Left Column: Description -->
 
 <div class="profile-content">
-<h1>Matthew King-Hang Ma</h1>
+<h1>Matthew Ma</h1>
 <p class="lead">Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience,
 Department of Language Science and Technology, The Hong Kong Polytechnic University</p>
 

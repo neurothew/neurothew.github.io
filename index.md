@@ -2,6 +2,28 @@
 layout: default
 title: Home
 ---
+::: profile-grid
+
+::: profile-content
+# Matthew King-Hang Ma
+
+Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience, Department of Language Science and Technology, The Hong Kong Polytechnic University
+
+My research primarily focuses on the cognitive neuroscience of aging ...
+
+### Interests
+- Cognitive neuroscience of ageing
+- Cognitive decline
+- Speech perception
+- EEG
+- model-brain alignment
+:::
+
+::: profile-photo-container
+![Profile Photo](/assets/images/avatar.jpg){: .profile-photo }
+:::
+
+:::
 
 <div class="profile-grid">
 
@@ -29,17 +51,13 @@ My research primarily focuses on the cognitive neuroscience of aging and speech 
   <li>EEG</li>
   <li>model-brain alignment</li>
 </ul>
-
-
 </div>
 
 <!-- Right Column: Photo -->
-
 <div class="profile-photo-container">
 <!-- Jekyll will look in the assets/images folder for your file -->
 <img src="{{ "/assets/images/avatar.jpg" | relative_url }}" alt="Profile Photo" class="profile-photo">
 </div>
-
 </div>
 
 <!-- Full width section below the grid -->

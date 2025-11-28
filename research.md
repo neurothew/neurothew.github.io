@@ -13,12 +13,13 @@ title: Research
     <div>
       <span class="card-tag">Neuroscience</span>
       <h3 class="card-title">Cognitive Neuroscience of Ageing</h3>
-      <p class="card-text">Exploring how the brain's structure and function change with age, particularly in relation to speech and music perception.</p>
+      <img src="{{ "/assets/images/mtrf_framework.png" | relative_url }}" alt="mTRF framework" class="card-image">
+      <p class="card-text">Exploring how cortical tracking of acoustic, subsyllabic segmentation and subsyllabic phonotactic features is modulated by degree of subjective cognitive decline.</p>
     </div>
     <a href="#" class="read-more-btn">Read More</a>
   </div>
 
-  <!-- Card 2 -->
+  <!-- Card 2
   <div class="research-card">
     <div>
       <span class="card-tag">EEG</span>
@@ -29,7 +30,7 @@ title: Research
   </div>
 
   <!-- Card 3 -->
-  <div class="research-card">
+  <!-- <div class="research-card">
     <div>
       <span class="card-tag">AI & Linguistics</span>
       <h3 class="card-title">Model-Brain Alignment</h3>
@@ -37,4 +38,4 @@ title: Research
     </div>
     <a href="#" class="read-more-btn">Read More</a>
   </div>
-</div>
+</div> -->

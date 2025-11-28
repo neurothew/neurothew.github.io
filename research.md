@@ -3,9 +3,9 @@ layout: default
 title: Research
 ---
 
-<h1>Research Interests</h1>
+# Research Highlights
 
-<p>Here are some of my main research areas. Click on a card to learn more about each topic.</p>
+<!-- <p>Here are some of my main research areas. Click on a card to learn more about each topic.</p> -->
 
 <div class="research-grid">
   <!-- Card 1 -->

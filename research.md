@@ -11,8 +11,8 @@ title: Research
   <!-- Card 1 -->
   <div class="research-card">
     <div>
-      <span class="card-tag">Neuroscience</span>
-      <h3 class="card-title">Cognitive Neuroscience of Ageing</h3>
+      <!-- <span class="card-tag">Speech percpetion</span> -->
+      <h3 class="card-title">More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline</h3>
       <img src="{{ "/assets/images/mtrf_framework.png" | relative_url }}" alt="mTRF framework" class="card-image">
       <p class="card-text">Exploring how cortical tracking of acoustic, subsyllabic segmentation and subsyllabic phonotactic features is modulated by degree of subjective cognitive decline.</p>
     </div>

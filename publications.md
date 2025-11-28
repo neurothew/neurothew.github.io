@@ -13,11 +13,14 @@ PDF \| Code \| BibTeX
 
 ---
 
+Rilliard, A., de Moraes, J. A., Erickson, D., Guerry, M., Hönemann, A., Lee, T., **Ma, M. K.-H.**, Mixdorff, H., Rao, P., & Shochi, T. (2025). Cross-cultural dimensions organizing prosodic attitudes reception: A meta-analysis of free labeling studies. _Journal of Speech Sciences_, _14_(00), e025012. [https://doi.org/10.20396/joss.v14i00.20379](https://doi.org/10.20396/joss.v14i00.20379)
 
+---
 
-"The Impact of Generative AI on Academic Integrity" Jane Doe, John Smith.
+**Ma, M. K.-H.**, Xie, C., Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. _Findings of the Association for Computational Linguistics: ACL 2025_, 19705–19724. [https://doi.org/10.18653/v1/2025.findings-acl.1011](https://doi.org/10.18653/v1/2025.findings-acl.1011)
 
-Journal of Modern Computing, 2023.
+---
 
-PDF \| Code \| BibTeX
+**Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. https://doi.org/10.48550/arXiv.2509.21277
+
 

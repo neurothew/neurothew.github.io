@@ -9,8 +9,8 @@ title: Home
 
 <div class="profile-content">
 <h1>Matthew Ma</h1>
-<p class="lead">Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience,
-Department of Language Science and Technology, The Hong Kong Polytechnic University</p>
+<!-- <p class="lead">Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience, -->
+<!-- Department of Language Science and Technology, The Hong Kong Polytechnic University</p> -->
 
 <p>
 My research primarily focuses on the cognitive neuroscience of aging and speech perception, utilizing electroencephalography (EEG) to explore how these processes unfold in the brain. Recently, I've been applying EEG to study brain activity in older adults during speech and music perception, aiming to understand how aging and subjective cognitive decline affect various cognitive functions. Parallel to this, I'm also keenly interested in large language models, particularly in deciphering their inner working mechanisms through a linguistic lens, and leveraging them to study brain activity – an interesting area known as model-brain alignment.
@@ -44,7 +44,9 @@ My research primarily focuses on the cognitive neuroscience of aging and speech 
 
 Recent News
 
-Nov 2023: We presented our work in EMNLP2025.
+Nov 2025: We presented our work in EMNLP2025.
+Aug 2025: We presented our work in ACL2025.
+Aug 2025: We presented our work in EMBC2025.
 
 Contact
 

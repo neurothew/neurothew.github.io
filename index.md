@@ -9,23 +9,25 @@ title: Home
 
 <div class="profile-content">
 <h1>Matthew King-Hang Ma</h1>
-<p class="lead">Assistant Professor of Computer Science at State University.</p>
+<p class="lead">Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience,
+Department of Language Science and Technology, The Hong Kong Polytechnic University</p>
 
 <p>
-  My research focuses on the intersection of <strong>Artificial Intelligence</strong> and <strong>Social Science</strong>. 
-  I am particularly interested in how large language models affect educational outcomes and the ethical implications of automated decision-making systems.
+My research primarily focuses on the cognitive neuroscience of aging and speech perception, utilizing electroencephalography (EEG) to explore how these processes unfold in the brain. Recently, I've been applying EEG to study brain activity in older adults during speech and music perception, aiming to understand how aging and subjective cognitive decline affect various cognitive functions. Parallel to this, I'm also keenly interested in large language models, particularly in deciphering their inner working mechanisms through a linguistic lens, and leveraging them to study brain activity – an interesting area known as model-brain alignment.
 </p>
 
 <p>
-  Before joining State University, I completed my PhD at [Previous University], where I was advised by [Advisor Name]. 
+  Before joining HKPolyU, I completed my PhD at CUHK, where I was advised by Prof. Tan LEE.
   In my spare time, I enjoy hiking and photography.
 </p>
 
 <h3>Interests</h3>
 <ul>
-  <li>Machine Learning Fairness</li>
-  <li>Human-Computer Interaction</li>
-  <li>Natural Language Processing</li>
+  <li>Cognitive neuroscience of ageing</li>
+  <li>Cognitive decline</li>
+  <li>Speech perception</li>
+  <li>EEG</li>
+  <li>model-brain alignment</li>
 </ul>
 
 
@@ -46,14 +48,8 @@ title: Home
 
 Recent News
 
-Nov 2023: I will be presenting our paper on "AI Ethics" at NeurIPS.
-
-Sept 2023: Started my new position at State University.
-
-Aug 2023: Successfully defended my thesis!
+Nov 2023: We presented our work in EMNLP2025.
 
 Contact
 
 Email: {{ site.email }}
-
-Office: Building 3, Room 404

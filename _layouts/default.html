@@ -122,13 +122,40 @@
     }
 
     /* --- Research Card Grid --- */
-    .research-grid {
+
+    /* This is the small grid version */
+    /* .research-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 30px;
       margin-bottom: 2rem;
+    } */
+
+    /* This is the single column version */
+    .research-grid {
+      /* display: grid; */ /* We remove the grid display */
+      /* grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); */
+      gap: 30px;
+      margin-bottom: 2rem;
+      display: flex; /* Use flexbox for easy centering */
+      flex-direction: column; /* Stack cards vertically */
+      align-items: center; /* Center cards horizontally */
     }
 
+    /* This is the small card */
+    /* .research-card {
+      background: #ffffff;
+      border: 1px solid var(--border-color);
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 250px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    } */
+
+    /* This is the full card */
     .research-card {
       background: #ffffff;
       border: 1px solid var(--border-color);
@@ -139,6 +166,9 @@
       min-height: 250px;
       box-shadow: 0 4px 6px rgba(0,0,0,0.05);
       transition: transform 0.2s ease, box-shadow 0.2s ease;
+      max-width: 700px; /* Set a max-width for the cards */
+      width: 100%; /* Ensure cards are responsive */
+      margin-bottom: 30px; /* Add space between cards */
     }
 
     .research-card:hover {

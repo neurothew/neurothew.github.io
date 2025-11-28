@@ -29,7 +29,10 @@ PDF \| Code
 
 [Code](https://github.com/neurothew/exploring-homonym-rep-in-llm)
 
----
+## 2021
 
+__Ma, M. K.-H.__, Fong, M. C.-M., Xie, C., Lee, T., Chen, G., & Wang, W. S. (2021). Regularity and randomness in ageing: Differences in resting-state EEG complexity measured by largest Lyapunov exponent. _Neuroimage: Reports_, _1_(4), 100054. [https://doi.org/10.1016/j.ynirp.2021.100054](https://doi.org/10.1016/j.ynirp.2021.100054)
 
+## 2020
 
+__Ma, M. K.-H.__, Lee, T., Fong, M. C.-M., & Shiyuan Wang, W. (2020). Resting-State EEG-Based Biometrics with Signals Features Extracted by Multivariate Empirical Mode Decomposition. _ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 991–995. [https://doi.org/10.1109/ICASSP40776.2020.9054351](https://doi.org/10.1109/ICASSP40776.2020.9054351)

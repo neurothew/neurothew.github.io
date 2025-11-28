@@ -9,8 +9,6 @@ title: Home
 
 <div class="profile-content">
 <h1>Matthew Ma</h1>
-<!-- <p class="lead">Postdoctoral Fellow at Research Centre for Language, Cognition and Neuroscience, -->
-<!-- Department of Language Science and Technology, The Hong Kong Polytechnic University</p> -->
 
 <p>
 Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Centre for Language, Cognition and Neuroscience, Department of Language Science and Technology, The Hong Kong Polytechnic University (HKPolyU).
@@ -50,7 +48,7 @@ Read about how <a href="about.html">I get into research</a>.
 
 <hr>
 
-Recent News
+## Recent News
 
 Nov 2025: We presented our work in EMNLP2025.
 
@@ -58,6 +56,6 @@ Aug 2025: We presented our work in ACL2025.
 
 Aug 2025: We presented our work in EMBC2025.
 
-Contact
+## Contact
 
 Email: {{ site.email }}

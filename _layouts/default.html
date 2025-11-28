@@ -94,6 +94,33 @@
     a { color: var(--accent-color); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
+    a { color: var(--accent-color); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* --- Blog Styles --- */
+    .post-list .post-item {
+      margin-bottom: 3rem;
+      padding-bottom: 3rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+    .post-list .post-item:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+    .post-meta {
+      color: #888;
+      font-size: 0.85rem;
+      margin-top: -0.5rem;
+      margin-bottom: 1rem;
+    }
+    .read-more {
+      font-weight: bold;
+      font-size: 0.9rem;
+    }
+    .post-content {
+      margin-top: 2rem;
+    }
+
     /* --- NEW: Two-Column Profile Grid --- */
     .profile-grid {
       display: grid;
@@ -167,8 +194,8 @@
         <a href="{{ "/" | relative_url }}">About</a>
         <a href="{{ "/publications" | relative_url }}">Publications</a>
         <a href="{{ "/teaching" | relative_url }}">Teaching</a>
+        <a href="{{ "/blog" | relative_url }}">Blog</a>
         <a href="{{ "/assets/pdf/CV_MA_20251105.pdf" | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a>
-        <!-- <a href="#">CV</a> -->
       </nav>
     </header>
 

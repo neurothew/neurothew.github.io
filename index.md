@@ -13,12 +13,14 @@ title: Home
 <!-- Department of Language Science and Technology, The Hong Kong Polytechnic University</p> -->
 
 <p>
+Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Centre for Language, Cognition and Neuroscience, Department of Language Science and Technology, The Hong Kong Polytechnic University (HKPolyU).
+
 My research primarily focuses on the cognitive neuroscience of aging and speech perception, utilizing electroencephalography (EEG) to explore how these processes unfold in the brain. Recently, I've been applying EEG to study brain activity in older adults during speech and music perception, aiming to understand how aging and subjective cognitive decline affect various cognitive functions. Parallel to this, I'm also keenly interested in large language models, particularly in deciphering their inner working mechanisms through a linguistic lens, and leveraging them to study brain activity – an interesting area known as model-brain alignment.
 </p>
 
 <p>
-  Before joining HKPolyU, I completed my PhD at CUHK, where I was advised by Prof. Tan LEE.
-  In my spare time, I enjoy hiking and photography.
+Before joining HKPolyU, I completed my PhD at CUHK, where I was advised by Prof. Tan LEE.
+In my spare time, I enjoy hiking and photography.
 </p>
 
 <h3>Interests</h3>

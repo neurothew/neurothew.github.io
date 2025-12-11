@@ -15,11 +15,14 @@ Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Cen
 </p>
 
 <p>
-My research primarily focuses on the cognitive neuroscience of aging and speech perception, utilizing electroencephalography (EEG) to explore how these processes unfold in the brain. Recently, I've been applying EEG to study brain activity in older adults during speech and music perception, aiming to understand how aging and subjective cognitive decline affect various cognitive functions. Parallel to this, I'm also keenly interested in large language models, particularly in deciphering their inner working mechanisms through a linguistic lens, and leveraging them to study brain activity – an interesting area known as model-brain alignment.
+My research primarily focuses on the cognitive neuroscience of aging and speech perception, utilizing electroencephalography (EEG) to explore how these processes unfold in the brain. Recently I have been particularly interested in studying the cortical tracking of speech and music, and how these neural mechanisms are altered in aging populations and individuals with subjective cognitive decline. Parallel to this, I am also keenly interested in large language models, particularly in deciphering their inner working mechanisms through a linguistic lens, and leveraging them to study brain activity – an interesting area known as model-brain alignment.
 </p>
 
 <p>
-Before joining HKPolyU, I completed my PhD at CUHK, where I was advised by Prof. Tan LEE.
+Before joining HKPolyU, I completed my PhD at The Chinese University of Hong Kong (CUHK) under the supervision of Prof. Tan LEE.
+</p>
+
+<p>
 In my spare time, I enjoy hiking and photography.
 </p>
 
@@ -52,7 +55,9 @@ Read about how <a href="about.html">I get into research</a>.
 
 Nov 2025: We presented our work in EMNLP2025. Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
 
-Sep 2025: We published a new preprint on arXiv. **Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. [https://doi.org/10.48550/arXiv.2509.21277](https://doi.org/10.48550/arXiv.2509.21277)
+Sep 2025: We published a new preprint on arXiv. <a href="{{ _posts/2025-12-11-more-than-a-feeling.md }}">Read more about it.</a>.
+
+- **Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. [https://doi.org/10.48550/arXiv.2509.21277](https://doi.org/10.48550/arXiv.2509.21277)
 
 Aug 2025: We presented our work in ACL2025. __Ma, M. K.-H.\*__, Xie, C.\*, Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. *Findings of the Association for Computational Linguistics: ACL 2025*, 19705–19724. [https://aclanthology.org/2025.findings-acl.1011/](https://aclanthology.org/2025.findings-acl.1011/)
 

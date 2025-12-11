@@ -13,15 +13,15 @@ title: Publications
 
 Xie, C.*, __Ma, M. K.-H.*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), _Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing_ (pp. 27596–27613). Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
 
+[Code](https://github.com/neurothew/context-and-pos-in-action)
+
 ---
 
 Rilliard, A., de Moraes, J. A., Erickson, D., Guerry, M., Hönemann, A., Lee, T., **Ma, M. K.-H.**, Mixdorff, H., Rao, P., & Shochi, T. (2025). Cross-cultural dimensions organizing prosodic attitudes reception: A meta-analysis of free labeling studies. _Journal of Speech Sciences_, _14_(00), e025012. [https://doi.org/10.20396/joss.v14i00.20379](https://doi.org/10.20396/joss.v14i00.20379)
 
 ---
 
-**Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025, July 14). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. _2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_.
-
-PDF \| Code
+**Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
 
 ---
 

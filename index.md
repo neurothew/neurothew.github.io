@@ -58,6 +58,5 @@ Aug 2025: We presented our work in ACL2025. __Ma, M. K.-H.\*__, Xie, C.\*, Wang,
 
 Aug 2025: We presented our work in EMBC2025. **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
 
-
 ## Contact
 Email: {{ site.email }}

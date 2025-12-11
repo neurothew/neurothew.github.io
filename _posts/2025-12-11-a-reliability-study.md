@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline"
-date: 2025-12-11
+title: "A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding"
+date: 2025-12-10
 category: research
-image: /assets/images/mtrf_framework.png
+image: /assets/images/plot_icc_final_vRevised.png
 ---
 
-TLDR: Exploring how cortical tracking of acoustic, subsyllabic segmentation and subsyllabic phonotactic features is modulated by degree of subjective cognitive decline.
-
-<!--more-->
-
-Subjective cognitive decline (SCD) approximately doubles the risk of progressing to MCI and dementia. The present study investigates how one's subjective concerns of his/her own cognition are manifested in the neural dynamics during speech perception. EEG was collected from 56 Cantonese, cognitively normal older adults (aged 60 - 70) while they listened to stimuli of four expressive styles that varied in prosody: scrambled, descriptive, dialogue, and exciting. Using encoding models to predict EEG signals from acoustic, segmentation, and phonotactic features, we found that greater subjective concern was associated with weaker cortical tracking of (1) higher-level linguistic features but not acoustic features and (2) less engaging stimuli (scrambled and descriptive styles) but not prosodically rich stimuli. Overall, our results suggest that early signs of cognitive impairment can be revealed from speech perception via cortical tracking, especially while listening to prosodically flat speech.
+Understanding how interactions between functional components in the brain form a network organization is a fundamental question in neuroscience. Graph theory has been applied to neural data to characterize these networks. However, multiple methodological decisions during network derivation raise questions about the reliability and reproducibility of such studies. In this study, we systematically investigated how frequency of interest, epoch length, and thresholding steps influence the stability and reliability of three key network measures derived from resting-state EEG: clustering coefficient, global efficiency, and Small-World Propensity. To ensure fair comparisons between different bands, we proposed using bandspecific epoch lengths determined by the number of effective cycles at the frequency of interest, instead of a fixed length in seconds. Our findings reveal that clustering coefficient requires a specific threshold to achieve reliable estimates, while global efficiency benefits from fewer and stronger connections. Small-World Propensity showed less satisfactory reliability and may require more data for accurate estimation. These results emphasize the importance of examining reliability across different network measures before applying them in studies. The reliability varies across frequency bands, with higherfrequency oscillations needing more effective cycles to ensure accurate estimation. Our findings provide valuable insights for researchers in optimizing their choices of epoch length and thresholds in future EEG network studies, enhancing the reliability and reproducibility of these analyses.

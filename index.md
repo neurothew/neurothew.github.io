@@ -50,12 +50,14 @@ Read about how <a href="about.html">I get into research</a>.
 
 ## Recent News
 
-Nov 2025: We presented our work in EMNLP2025.
 
-Aug 2025: We presented our work in ACL2025.
+Nov 2025: We presented our work in EMNLP2025. Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. https://aclanthology.org/2025.emnlp-main.1404/
 
-Aug 2025: We presented our work in EMBC2025.
+Sep 2025: We published a new preprint on arXiv. **Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. https://doi.org/10.48550/arXiv.2509.21277
+
+Aug 2025: We presented our work in ACL2025. __Ma, M. K.-H.\*__, Xie, C.\*, Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. *Findings of the Association for Computational Linguistics: ACL 2025*, 19705–19724.
+
+Aug 2025: We presented our work in EMBC2025. **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. https://doi.org/10.1109/EMBC58623.2025.11251614
 
 ## Contact
-
 Email: {{ site.email }}

@@ -23,6 +23,8 @@ Rilliard, A., de Moraes, J. A., Erickson, D., Guerry, M., Hönemann, A., Lee, T.
 
 **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
 
+[PDF](/assets/pdf/CV_MA_20251105.pdf)
+
 ---
 
 **Ma, M. K.-H.**, Xie, C., Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. _Findings of the Association for Computational Linguistics: ACL 2025_, 19705–19724. [https://doi.org/10.18653/v1/2025.findings-acl.1011](https://doi.org/10.18653/v1/2025.findings-acl.1011)

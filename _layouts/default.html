@@ -319,7 +319,7 @@
       height: 240px;     /* Fixed height for all images */
       width: auto;       /* Width adapts to aspect ratio */
       max-width: 100%;   /* Prevents overflow */
-      object-fit: contain; /* Show full image, no cropping */
+      object-fit: cover; /* Crop if needed, always fills the height */
       border-radius: 4px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.08);
       transition: transform 0.2s cubic-bezier(.4,2,.6,1), z-index 0s;

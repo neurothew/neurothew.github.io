@@ -304,44 +304,19 @@
         flex-wrap: wrap; /* Allow nav items to wrap to the next line */
         gap: 15px; /* Optional: Reduce gap on mobile */
       }
+      .gallery-photo {
+        height: 25vh;
+      }
     }
 
     /* --- Gallery Grid Styles --- */
-    .gallery-grid {
+    /* .gallery-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 20px;
       margin-bottom: 2rem;
-      justify-items: center; /* Center images in their cells */
+      justify-items: center;
     }
-
-/* 
-    .gallery-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 20px;
-      margin-bottom: 2rem;
-    }
-     */
-    /* .gallery-photo-landscape {
-      max-height: 240px;
-      width: auto;
-      height: auto;
-      object-fit: contain; 
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .gallery-photo-portrait {
-      height: 240px;
-      width: auto;
-      object-fit: cover; 
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    } */
-
 
     .gallery-photo-landscape,
     .gallery-photo-portrait {
@@ -362,7 +337,54 @@
     .gallery-photo-portrait:hover {
       transform: scale(1.15);
       z-index: 10;
+    } */
+
+
+    /* THE CONTAINER */
+    .gallery-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
     }
+
+    /* THE IMAGE ELEMENT (Assuming you apply this directly to the <img> tags) */
+    .gallery-photo {
+      /* 1. Set your target height. 
+        Use 'vh' for responsiveness or 'px' for fixed size.
+        500px is very tall, so I used 40vh (40% of screen height) as a demo. */
+      height: 40vh; 
+      
+      /* 2. Allow the image to grow to fill the empty space in the row */
+      flex-grow: 1;
+      
+      /* 3. Ensure the aspect ratio is respected as much as possible, 
+        but crop slightly if needed to fill the gap exactly */
+      object-fit: cover;
+      
+      /* Visual styling */
+      border-radius: 4px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      transition: transform 0.2s cubic-bezier(.4,2,.6,1);
+    }
+
+    /* HOVER EFFECT */
+    .gallery-photo:hover {
+      transform: scale(1.05); /* slightly reduced scale to prevent overflow issues */
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+      z-index: 10;
+      position: relative;
+    }
+
+    /* --- CRITICAL FIX FOR THE LAST ROW --- */
+    /* This prevents the last photo from expanding to fill the 
+      entire screen width if it's the only one on the row. */
+    .gallery-grid::after {
+      content: "";
+      flex-grow: 99999; /* A huge number to hog all the empty space */
+      min-width: 200px; /* Prevent it from disappearing completely */
+    }
+
+
 
   </style>
 </head>

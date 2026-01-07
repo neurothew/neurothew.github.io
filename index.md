@@ -7,7 +7,7 @@ title: Home
 
 <!-- Left Column: Description -->
 
-<div class="profile-content">
+<!-- <div class="profile-content">
 <h1>Matthew Ma</h1>
 
 <p>
@@ -28,7 +28,34 @@ In my spare time, I enjoy hiking and photography.
 
 <p>
 Read about how <a href="about.html">I get into research</a>.
+</p> -->
+
+<h1>Matthew Ma</h1>
+
+<p>
+Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Centre for Language, Cognition and Neuroscience, Department of Language Science and Technology, The Hong Kong Polytechnic University (HKPolyU).
 </p>
+
+<p>
+Born with moderately severe hearing loss, I fortunately grew up pretty normally (I suppose), accompanied by a curiosity about speech perception. Hoping to contribute to the development of hearing assistive technology, I studied biomedical engineering as an undergraduate.
+</p>
+
+<p>
+Soon I realized that to advance hearing assistive technology, having a better understanding of the neural mechanisms of speech perception was essential. As such, I began my PhD investigating brain dynamics via electroencephalography (EEG). My doctoral dissertation involved the characterization of the resting brain in ageing, bridging digital signal processing and neuroscience.
+</p>
+
+<p>
+While my dissertation focused on the resting-state, I have always wanted to know more about how our ongoing brain oscillations facilitate the binding of acoustic and linguistic units into comprehensible sentences and paragraphs. This led me to apply for several grants, including the HKRGC Postdoctoral Fellowship, to study speech perception via the cortical tracking phenomenon. Ultimately, I would like to understand how different levels of linguistic information are processed and integrated, and how these mechanisms are affected by ageing and cognitive decline.
+</p>
+
+<p>
+Relatively recently, the human-level linguistic competence of large language models (LLMs) has drawn my interest. By manipulating and experimenting on LLM components and architectures, I aim to use LLMs as a tool to model human behavioural as well as neurophysiological responses. The two black boxes, the brain and the LLMs, can be complementary, and we can use one to help study the other.
+</p>
+
+<p>
+In my spare time, I enjoy strolling, hiking and <a href="gallery.html">taking photos</a>, or just sleeping.
+</p>
+
 
 <h3>Interests</h3>
 <ul>

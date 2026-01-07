@@ -309,39 +309,19 @@
       }
     }
 
-    /* CONTAINER */
     .gallery-grid {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      padding: 10px;
+      overflow: hidden; /* clean edges */
     }
 
-    /* THE IMAGE ITSELF */
     .gallery-photo {
-      /* JS will override these dimensions, but we set defaults just in case */
-      height: 500px;
-      width: auto; 
+      height: 500px; /* Fallback height before JS runs */
       object-fit: cover;
-      flex-grow: 0;
-      
-      /* Visual & Animation Setup */
-      border-radius: 4px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-      
-      /* Essential for the "Explode" effect */
-      position: relative; 
-      z-index: 1;
-      transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), z-index 0s;
+      flex-grow: 0; /* JS will handle the sizing */
     }
 
-    /* HOVER EFFECT */
-    .gallery-photo:hover {
-      transform: scale(1.15); /* Explode size */
-      z-index: 100;           /* Bring to front */
-      box-shadow: 0 15px 30px rgba(0,0,0,0.3);
-      cursor: pointer;
-    }
 
     /* --- CRITICAL FIX FOR THE LAST ROW --- */
     /* This prevents the last photo from expanding to fill the 

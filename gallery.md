@@ -10,8 +10,8 @@ permalink: /gallery/
   <img src="/assets/gallery/DSC05276.jpg" alt="EastCoast" class="gallery-photo">
   <img src="/assets/gallery/DSC02760.jpg" alt="Butterfly" class="gallery-photo">
   <img src="/assets/gallery/DSC04826.jpg" alt="EastCoast" class="gallery-photo">
-  <img src="/assets/gallery/DSC02753.jpg" alt="Butterfly" class="gallery-photo">
   <img src="/assets/gallery/DSC05248.jpg" alt="EastCoast" class="gallery-photo">
+  <img src="/assets/gallery/DSC02753.jpg" alt="Butterfly" class="gallery-photo">
   <img src="/assets/gallery/DSC03173.jpg" alt="EastCoast" class="gallery-photo">
   <img src="/assets/gallery/DSC02200.jpg" alt="EastCoast" class="gallery-photo">
   <img src="/assets/gallery/DSC01913.jpg" alt="EastCoast" class="gallery-photo">

@@ -30,6 +30,7 @@ In my spare time, I enjoy hiking and photography.
 Read about how <a href="about.html">I get into research</a>.
 </p> -->
 
+<div class="profile-content">
 <h1>Matthew Ma</h1>
 
 <p>

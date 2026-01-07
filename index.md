@@ -54,7 +54,7 @@ Relatively recently, the human-level linguistic competence of large language mod
 </p>
 
 <p>
-In my spare time, I enjoy strolling, hiking and <a href="gallery.html">taking photos</a>, or just sleeping.
+In my spare time, I enjoy strolling, hiking and <a href="gallery">taking photos</a>, or just sleeping.
 </p>
 
 

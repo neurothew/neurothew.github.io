@@ -309,25 +309,50 @@
       }
     }
 
+    /* --- CONTAINER --- */
     .gallery-grid {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
-      overflow: hidden; /* clean edges */
+      /* IMPORTANT: Do NOT use overflow: hidden here, 
+        or the images will be cut off when they expand. */
+      padding: 10px; /* Optional: Adds breathing room so edge photos don't clip */
     }
 
+    /* --- IMAGES (Structure & Animation) --- */
     .gallery-photo {
-      height: 500px; /* Fallback height before JS runs */
-      object-fit: cover;
-      flex-grow: 0; /* JS will handle the sizing */
+      /* 1. LAYOUT ESSENTIALS (For the JS to work) */
+      height: 500px;      /* Fallback height */
+      object-fit: cover;  /* Ensures content looks good */
+      flex-grow: 0;       /* JS handles the width, so we turn off flex-grow */
+      vertical-align: bottom; /* Removes tiny gap under images */
+
+      /* 2. VISUALS (Your "Explode" Effect) */
+      position: relative; /* Needed for z-index to work */
+      z-index: 1;         /* Default layer */
+      
+      border-radius: 4px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      
+      /* Smooth animation */
+      transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94), 
+                  box-shadow 0.3s ease, 
+                  z-index 0s;
     }
-    
-    /* HOVER EFFECT */
+
+    /* --- HOVER STATE --- */
     .gallery-photo:hover {
-      transform: scale(1.05); /* slightly reduced scale to prevent overflow issues */
-      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-      z-index: 10;
-      position: relative;
+      /* Scale up the image */
+      transform: scale(1.15); 
+      
+      /* Bring it to the very front so it overlaps neighbors */
+      z-index: 100; 
+      
+      /* Make the shadow deeper */
+      box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+      
+      /* Optional: Add a border to make it pop even more against similar colors */
+      outline: 1px solid rgba(255,255,255,0.5);
     }
 
     /* --- CRITICAL FIX FOR THE LAST ROW --- */

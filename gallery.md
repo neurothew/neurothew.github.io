@@ -12,6 +12,10 @@ permalink: /gallery/
   <img src="/assets/gallery/DSC04826.jpg" alt="EastCoast" class="gallery-photo">
   <img src="/assets/gallery/DSC02753.jpg" alt="Butterfly" class="gallery-photo">
   <img src="/assets/gallery/DSC05248.jpg" alt="EastCoast" class="gallery-photo">
+  <img src="/assets/gallery/DSC03173.jpg" alt="EastCoast" class="gallery-photo">
+  <img src="/assets/gallery/DSC02200.jpg" alt="EastCoast" class="gallery-photo">
+  <img src="/assets/gallery/DSC01913.jpg" alt="EastCoast" class="gallery-photo">
+  <img src="/assets/gallery/DSC00146.jpg" alt="EastCoast" class="gallery-photo">
   <!-- Add more images as needed -->
 </div>
 

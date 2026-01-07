@@ -38,7 +38,7 @@ Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Cen
 </p>
 
 <p>
-Born with moderately severe hearing loss, I fortunately grew up pretty normally (I suppose), accompanied by a curiosity about speech perception. Hoping to contribute to the development of hearing assistive technology, I studied biomedical engineering as an undergraduate.
+Born with moderately severe hearing loss, I fortunately grew up integrating pretty well into the hearing environment (I suppose), accompanied by a curiosity about speech perception. Hoping to contribute to the development of hearing assistive technology, I studied biomedical engineering as an undergraduate.
 </p>
 
 <p>

@@ -23,13 +23,29 @@ Rilliard, A., de Moraes, J. A., Erickson, D., Guerry, M., Hönemann, A., Lee, T.
 
 **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
 
-[PDF](/assets/pdf/CV_MA_20251105.pdf)
-
 ---
 
 **Ma, M. K.-H.**, Xie, C., Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. _Findings of the Association for Computational Linguistics: ACL 2025_, 19705–19724. [https://doi.org/10.18653/v1/2025.findings-acl.1011](https://doi.org/10.18653/v1/2025.findings-acl.1011)
 
 [Code](https://github.com/neurothew/exploring-homonym-rep-in-llm)
+
+---
+
+Fong, M. C.-M., **Ma, M. K.-H.**, Ng, X. S.-W., Liu, J. C. H., Waye, M. M. Y., Chien, W. T., & Wang, W. S. (2025). Regional Brain Age Measures Based on Convolutional Neural Networks (CNNs)—Symmetry Properties and Associations with Fluid and Crystallized Intelligence. _2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, 1–7. https://doi.org/10.1109/EMBC58623.2025.11252950
+
+---
+
+Fong, M. C.-M., Liu, J. C. H., **Ma, M. K.-H.**, Ng, X. S.-W., Hui, C. L. L., Waye, M. M. Y., Chien, W. T., & Wang, W. S. (2025). Predicting Intelligence Profile and Brain Age with Single- and Dual-Channel Cnns: A Study Based on Human Connectome Projects. _2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)_, 1–6. https://doi.org/10.1109/ISBI60581.2025.10981090
+
+# 2023
+
+**Ma, M. K.-H.** (2023). Six-Year Longitudinal Changes in EEG Spectral Characteristics of a Healthy Older Individual. In _Inspirations from a Lofty Mountain: Festschrift in Honor of Professor William S.-Y. Wang on his 90th Birthday_.
+
+Xie, C., Fong, M. C.-M., **Ma, M. K.-H.**, Wang, J., & Wang, W. S. (2023). The retrogenesis of age-related decline in declarative and procedural memory. _Frontiers in Psychology_, _14_.
+
+# 2022 
+
+Fong, M. C-M., **Ma, M. K-H.**, Chui, J. Y. T., Law, T. S. T., Hui, N-Y., Au, A., & Wang, W. S. (2022). Foreign language learning in older adults: anatomical and cognitive markers of vocabulary learning success. _Frontiers in Human Neuroscience_, _16_, 787413.
 
 ## 2021
 

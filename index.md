@@ -31,7 +31,7 @@ Read about how <a href="about.html">I get into research</a>.
 </p> -->
 
 <div class="profile-content">
-<h1>Matthew Ma</h1>
+<!-- <h1>Matthew Ma</h1> -->
 
 <a href="https://scholar.google.com/citations?user=FTyoV5IAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/matthew-ma-174563289/">Linkedin</a> | <a href="mailto:khmma@polyu.edu.hk">Email</a>
 

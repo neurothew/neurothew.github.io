@@ -33,6 +33,8 @@ Read about how <a href="about.html">I get into research</a>.
 <div class="profile-content">
 <h1>Matthew Ma</h1>
 
+<a href="https://scholar.google.com/citations?user=FTyoV5IAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.linkedin.com/in/matthew-ma-174563289/">Linkedin</a>
+
 <p>
 Hi, I am Matthew, currently working as a Postdoctoral Fellow at the Research Centre for Language, Cognition and Neuroscience, Department of Language Science and Technology, The Hong Kong Polytechnic University (HKPolyU).
 </p>
@@ -83,13 +85,17 @@ In my spare time, I enjoy strolling, hiking and <a href="gallery">taking photos<
 
 Nov 2025: We presented our work in EMNLP2025. Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
 
-Sep 2025: We published a new preprint on arXiv. [Read more about it]({% post_url 2025-12-11-more-than-a-feeling %}).
+Sep 2025: We published a new preprint on arXiv.
 
 - **Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. [https://doi.org/10.48550/arXiv.2509.21277](https://doi.org/10.48550/arXiv.2509.21277)
 
 Aug 2025: We presented our work in ACL2025. __Ma, M. K.-H.\*__, Xie, C.\*, Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. *Findings of the Association for Computational Linguistics: ACL 2025*, 19705–19724. [https://aclanthology.org/2025.findings-acl.1011/](https://aclanthology.org/2025.findings-acl.1011/)
 
-Aug 2025: We presented our work in EMBC2025. **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
+Aug 2025: We presented our work in EMBC2025. 
+
+- **Ma, M. K.-H.**, Fong, M. C.-M., & Wang, W. S. (2025). A Reliability Study in Resting-state EEG Network Characteristics: Frequency of Interest, Number of Oscillatory Cycles and Thresholding. *2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, 1–7. [https://doi.org/10.1109/EMBC58623.2025.11251614](https://doi.org/10.1109/EMBC58623.2025.11251614)
+
+- Fong, M. C.-M., **Ma, M. K.-H.**, Ng, X. S.-W., Liu, J. C. H., Waye, M. M. Y., Chien, W. T., & Wang, W. S. (2025). Regional Brain Age Measures Based on Convolutional Neural Networks (CNNs)—Symmetry Properties and Associations with Fluid and Crystallized Intelligence. _2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, 1–7. https://doi.org/10.1109/EMBC58623.2025.11252950
 
 ## Contact
 Email: {{ site.email }}

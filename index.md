@@ -83,15 +83,18 @@ In my spare time, I enjoy strolling, hiking and <a href="gallery">taking photos<
 
 ## Recent News
 
-__Jan 2026__: Our paper got accepted to Speech Prosody 2026, see you in Philadelphia! __Ma, M. K.-H.__, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025b). Keep Calm and Listen: Subjective Cognitive Decline Modulates Cortical Tracking of Speech and Music in Different Expressive Styles. 
+__Jan 2026__: Our paper got accepted to Speech Prosody 2026, see you in Philadelphia! 
+- __Ma, M. K.-H.__, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025b). Keep Calm and Listen: Subjective Cognitive Decline Modulates Cortical Tracking of Speech and Music in Different Expressive Styles. 
 
-__Nov 2025__: We presented our work in EMNLP2025. Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
+__Nov 2025__: We presented our work in EMNLP2025. 
+- Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
 
 __Sep 2025__: We published a new preprint on arXiv.
 
 - **Ma, M. K.-H.**, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025). More than a feeling: Expressive style influences cortical speech tracking in subjective cognitive decline (No. arXiv:2509.21277). arXiv. [https://doi.org/10.48550/arXiv.2509.21277](https://doi.org/10.48550/arXiv.2509.21277)
 
-Aug 2025: We presented our work in ACL2025. __Ma, M. K.-H.\*__, Xie, C.\*, Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. *Findings of the Association for Computational Linguistics: ACL 2025*, 19705–19724. [https://aclanthology.org/2025.findings-acl.1011/](https://aclanthology.org/2025.findings-acl.1011/)
+Aug 2025: We presented our work in ACL2025. 
+- __Ma, M. K.-H.\*__, Xie, C.\*, Wang, W., & Wang, W. S. (2025). Exploring Layer-wise Representations of English and Chinese Homonymy in Pre-trained Language Models. *Findings of the Association for Computational Linguistics: ACL 2025*, 19705–19724. [https://aclanthology.org/2025.findings-acl.1011/](https://aclanthology.org/2025.findings-acl.1011/)
 
 Aug 2025: We presented our work in EMBC2025. 
 

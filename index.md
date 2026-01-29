@@ -84,7 +84,7 @@ In my spare time, I enjoy strolling, hiking and <a href="gallery">taking photos<
 ## Recent News
 
 __Jan 2026__: Our paper got accepted to Speech Prosody 2026, see you in Philadelphia! 
-- __Ma, M. K.-H.__, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. (2025b). Keep Calm and Listen: Subjective Cognitive Decline Modulates Cortical Tracking of Speech and Music in Different Expressive Styles. 
+- __Ma, M. K.-H.__, Fong, M. C.-M., Feng, Y., Li, C. P.-H., & Wang, W. S. Keep Calm and Listen: Subjective Cognitive Decline Modulates Cortical Tracking of Speech and Music in Different Expressive Styles. 
 
 __Nov 2025__: We presented our work in EMNLP2025. 
 - Xie, C.*, __Ma, M. K.-H.\*__, Wang, W., & Wang, W. S. (2025). Context and POS in Action: A Comparative Study of Chinese Homonym Disambiguation in Human and Language Models. In C. Christodoulopoulos, T. Chakraborty, C. Rose, & V. Peng (Eds.), *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (pp. 27596–27613)*. Association for Computational Linguistics. [https://aclanthology.org/2025.emnlp-main.1404/](https://aclanthology.org/2025.emnlp-main.1404/)
